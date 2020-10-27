@@ -1,0 +1,39 @@
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+.dropdown>.dropdown-toggle:active {
+    pointer-events: none;
+}
+.dropdown-center {
+    display: inline-block;
+}
+.body {
+    background-color: #FFFFFF;
+}
+.navbar-buttom{
+    width: 100%;
+}
+.navbar{
+    width: 100%;
+}
+.bg-image{
+    background-image: url("https://drevozet.sk/wp-content/uploads/2018/01/background-image-drevozet-01.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 100%;
+}
+.navbar-logo{
+    height: 127px;
+    max-width: 100%;
+    vertical-align: middle;
+    border-style: none;
+    box-sizing: inherit;
+    z-index: 10;
+    width: 98px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
